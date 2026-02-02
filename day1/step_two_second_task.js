@@ -27,3 +27,10 @@ function helloname(str, CallBack) {
 
 console.log(helloname("ali", takestring));
 
+
+let array = ["ali", "ali", "ali"];
+function poplast(array) {
+    array.pop();
+}
+poplast(array)
+console.log(array);
