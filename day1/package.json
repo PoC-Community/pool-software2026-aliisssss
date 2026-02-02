@@ -2,11 +2,16 @@
   "name": "day1",
   "version": "1.0.0",
   "main": "steptwo.js",
-   "code-runner.runInTerminal": true,
+  "code-runner.runInTerminal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^25.2.0",
+    "typescript": "^5.9.3"
+  }
 }
